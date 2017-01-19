@@ -12,6 +12,9 @@ vendor/
 
 
 !static/*
+!website/var/log/
+website/var/log/*
+!website/var/log/.dummy
 
 .DS_Store
 Thumbs.db
