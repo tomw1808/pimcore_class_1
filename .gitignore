@@ -3,13 +3,15 @@
 .idea_modules/
 node_modules/
 !website/var/
-!static/*
 website/var/*
 !website/var/config/
 website/var/config/*.mmdb
 !website/var/classes/
 website/var/classes/Object
 vendor/
+
+
+!static/*
 
 .DS_Store
 Thumbs.db
