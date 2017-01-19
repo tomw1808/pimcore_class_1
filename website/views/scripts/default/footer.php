@@ -21,7 +21,7 @@
 							</li>
 						<?php } ?>
 					</ul>
-				<? } ?>
+				<?php } ?>
 				<p class="copyright text-muted">
 					Copyright &copy; <?= $this->input("copyright_message"); ?> <?= date("Y"); ?></p>
 			</div>
