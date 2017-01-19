@@ -1,0 +1,27 @@
+.idea/
+.vagrant/
+.idea_modules/
+node_modules/
+!website/var/
+website/var/*
+!website/var/config/
+website/var/config/*.mmdb
+!website/var/classes/
+website/var/classes/Object
+vendor/
+
+.DS_Store
+Thumbs.db
+
+# tests
+/tests/output/*
+/tests/tmp/*
+
+# composer
+/composer.phar
+/composer.lock
+/vendor/*
+!/vendor/.dummy
+
+# misc
+/php-cs-fixer.phar

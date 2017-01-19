@@ -1,0 +1,4 @@
+
+<?= $this->areablock('myAreablock'); ?>
+
+<hr>
