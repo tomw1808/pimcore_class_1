@@ -3,6 +3,7 @@
 .idea_modules/
 node_modules/
 !website/var/
+!static/*
 website/var/*
 !website/var/config/
 website/var/config/*.mmdb
